@@ -5,3 +5,5 @@
 /fescar-mapper/target/
 /fescar-model/target/
 /fescar-order-service/target/
+/.idea
+/*.iml
