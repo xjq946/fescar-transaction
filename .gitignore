@@ -1,0 +1,7 @@
+# Project exclude paths
+/fescar-account-service/target/
+/fescar-interface/target/
+/fescar-item-service/target/
+/fescar-mapper/target/
+/fescar-model/target/
+/fescar-order-service/target/

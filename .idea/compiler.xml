@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fescar-account-service" />
+        <module name="fescar-interface" />
+        <module name="fescar-item-service" />
+        <module name="fescar-mapper" />
+        <module name="fescar-model" />
+        <module name="fescar-order" />
+        <module name="fescar-order-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fescar-account-service" target="1.6" />
+      <module name="fescar-interface" target="1.5" />
+      <module name="fescar-item-service" target="1.6" />
+      <module name="fescar-mapper" target="1.5" />
+      <module name="fescar-model" target="1.5" />
+      <module name="fescar-order" target="1.5" />
+      <module name="fescar-order-service" target="1.6" />
+      <module name="fescar-transaction" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

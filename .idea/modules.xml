@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fescar-account-service/fescar-account-service.iml" filepath="$PROJECT_DIR$/fescar-account-service/fescar-account-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fescar-interface/fescar-interface.iml" filepath="$PROJECT_DIR$/fescar-interface/fescar-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fescar-item-service/fescar-item-service.iml" filepath="$PROJECT_DIR$/fescar-item-service/fescar-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fescar-mapper/fescar-mapper.iml" filepath="$PROJECT_DIR$/fescar-mapper/fescar-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fescar-model/fescar-model.iml" filepath="$PROJECT_DIR$/fescar-model/fescar-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fescar-order-service/fescar-order-service.iml" filepath="$PROJECT_DIR$/fescar-order-service/fescar-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fescar-transaction.iml" filepath="$PROJECT_DIR$/fescar-transaction.iml" />
+    </modules>
+  </component>
+</project>
